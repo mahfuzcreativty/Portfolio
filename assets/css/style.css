@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap");
 h1,
 h2,
 h3,
@@ -20,7 +21,7 @@ img {
   padding: 0;
 }
 
-.Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon i, .Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon svg, .Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon, .portfolio-part .gellary-wrap .gellary-box .gellary-item .gellary-inner .gellary-content, .Team-area .team-wrapper .spr-btn, .Education-area .edu-wrap .edu-item::after, .About .about-wrapper .about-right .about-icon .abt-icon::after, .service-area .service-wrapper .service-item .service-inner .service-content h5:after, .service-area .service-wrapper .service-item .service-inner .service-thumb .service-icon, .service-area .service-wrapper .service-item, .Menu-area .navbar .navbar-toggler span, .scrollToTop, h1,
+.portfolio-part .gellary-wrap .gellary-box .gellary-item .gellary-inner .gellary-content, .Team-area .team-wrapper .spr-btn, .Education-area .edu-wrap .edu-item::after, .About .about-wrapper .about-right .about-icon .abt-icon::after, .service-area .service-wrapper .service-item .service-inner .service-content h5:after, .service-area .service-wrapper .service-item .service-inner .service-thumb .service-icon, .service-area .service-wrapper .service-item, .Menu-area .navbar .navbar-toggler span, .scrollToTop, h1,
 h2,
 h3,
 h4,
@@ -45,7 +46,7 @@ a, li {
   display: inline-block;
 }
 
-.Blog-area .blog-details .blog-content .blog-bottom .blog-video, .Blog-area .blog-details .blog-content, .portfolio-part .gellary-wrap .gellary-box .gellary-item .gellary-inner, .portfolio-part .gellary-wrap .gellary-head .button-group button, .Team-area, .Education-area .edu-wrap .edu-item, .About .about-wrapper .about-right .about-icon .abt-icon, .About .about-wrapper .about-right, .About .about-wrapper .about-left, .service-area .service-wrapper .service-item .service-inner .service-content h5, .service-area .service-wrapper .service-item .service-inner, .service-area .service-wrapper .service-item, .banner-section .banner-content .greating, .banner-section, .Menu-area .navbar .menubar ul .nav-item span, .Menu-area .navbar .menubar ul .nav-item, .Menu-area .navbar .navbar-toggler, .Menu-area .navbar .logo, .common-btn span, .section-header h2, body {
+.Blog-area .blog-details .blog-content .blog-bottom .blog-video, .Blog-area .blog-details .blog-content, .Blog-area, .portfolio-part .gellary-wrap .gellary-box .gellary-item .gellary-inner, .portfolio-part .gellary-wrap .gellary-head .button-group button, .Team-area, .myWork .nav-tabs button, .Education-area .edu-wrap .edu-item, .About .about-wrapper .about-right .about-icon .abt-icon, .About .about-wrapper .about-right, .About .about-wrapper .about-left, .service-area .service-wrapper .service-item .service-inner .service-content h5, .service-area .service-wrapper .service-item .service-inner, .service-area .service-wrapper .service-item, .banner-section .banner-content .greating, .banner-section, .Menu-area .navbar .menubar ul .nav-item span, .Menu-area .navbar .menubar ul .nav-item, .Menu-area .navbar .navbar-toggler, .Menu-area .navbar .logo, .common-btn span, .section-header h2, body {
   position: relative;
 }
 
@@ -54,7 +55,7 @@ a, li {
   flex-wrap: wrap;
 }
 
-.Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon, .Blog-area .blog-details .blog-content .blog-close, .portfolio-part .gellary-wrap .gellary-box .gellary-item .gellary-inner .gellary-content, .portfolio-part .gellary-wrap .gellary-head .button-group button::after, .Education-area .edu-wrap .edu-item::after, .About .about-wrapper .about-right .about-icon .abt-icon::before, .About .about-wrapper .about-right .about-icon .abt-icon::after, .About .about-wrapper .about-right .about-icon, .About .about-wrapper .about-left .about-content, .service-area .service-wrapper .service-item .service-inner .service-content h5:after, .service-area .service-wrapper .service-item .service-inner::after, .banner-section .banner-content .greating::after, .Menu-area .navbar .menubar ul .nav-item .sub-menu, .Menu-area .navbar .menubar ul .nav-item span::after, .Menu-area .navbar .navbar-toggler.collapsed span, .Menu-area .navbar .navbar-toggler span, .pluse_1::after, .pluse_1::before, .pluse_2::after, .pluse_2::before, .pluse_1, .pluse_2, .scrollToTop i, .section-header h2::after, .section-header h2::before {
+.Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon, .Blog-area .blog-details .blog-content .blog-close, .portfolio-part .gellary-wrap .gellary-box .gellary-item .gellary-inner .gellary-content, .portfolio-part .gellary-wrap .gellary-head .button-group button::after, .myWork .nav-tabs button::after, .Education-area .edu-wrap .edu-item::after, .About .about-wrapper .about-right .about-icon .abt-icon::before, .About .about-wrapper .about-right .about-icon .abt-icon::after, .About .about-wrapper .about-right .about-icon, .About .about-wrapper .about-left .about-content, .service-area .service-wrapper .service-item .service-inner .service-content h5:after, .service-area .service-wrapper .service-item .service-inner::after, .banner-section .banner-content .greating::after, .Menu-area .navbar .menubar ul .nav-item .sub-menu, .Menu-area .navbar .menubar ul .nav-item span::after, .Menu-area .navbar .navbar-toggler.collapsed span, .Menu-area .navbar .navbar-toggler span, .pluse_1::after, .pluse_1::before, .pluse_2::after, .pluse_2::before, .pluse_1, .pluse_2, .scrollToTop i, .section-header h2::after, .section-header h2::before {
   position: absolute;
   content: "";
 }
@@ -78,7 +79,7 @@ a, li {
   border-radius: 50%;
 }
 
-.skill-part .skill-wrap .my-achivment .ach-item .ach-inner, .About .about-wrapper .about-left .about-img-one, .service-area .service-wrapper .service-item .service-inner .service-content, .scrollToTop, .section-header {
+.myWork #watch-tab-pane .watch h3, .skill-part .skill-wrap .my-achivment .ach-item .ach-inner, .About .about-wrapper .about-left .about-img-one, .service-area .service-wrapper .service-item .service-inner .service-content, .scrollToTop, .section-header {
   text-align: center;
 }
 
@@ -888,7 +889,7 @@ body.dark .service-area .service-wrapper .service-item .service-inner .service-i
 }
 
 .About {
-  background: linear-gradient(to right, rgba(244, 244, 244, 0.7411764706), rgba(222, 228, 247, 0.831372549), rgba(225, 240, 255, 0.7882352941), rgba(248, 252, 255, 0.8823529412), rgba(214, 229, 247, 0.8509803922), rgba(244, 244, 244, 0.7411764706));
+  background: linear-gradient(to right, rgba(215, 227, 248, 0.8823529412), rgba(238, 246, 255, 0.9254901961), rgba(214, 245, 255, 0.7411764706), rgba(222, 235, 255, 0.8), rgba(227, 236, 247, 0.9647058824), rgba(222, 240, 255, 0.8901960784));
 }
 .About .about-wrapper .about-left {
   width: 100%;
@@ -1043,7 +1044,7 @@ body.dark .service-area .service-wrapper .service-item .service-inner .service-i
 }
 
 .Education-area {
-  background: linear-gradient(to right, rgba(215, 227, 248, 0.8823529412), rgba(238, 246, 255, 0.9254901961), rgba(214, 245, 255, 0.7411764706), rgba(222, 235, 255, 0.8), rgba(227, 236, 247, 0.9647058824), rgba(222, 240, 255, 0.8901960784));
+  background: linear-gradient(to right, rgba(244, 244, 244, 0.7411764706), rgba(222, 228, 247, 0.831372549), rgba(225, 240, 255, 0.7882352941), rgba(248, 252, 255, 0.8823529412), rgba(214, 229, 247, 0.8509803922), rgba(244, 244, 244, 0.7411764706));
 }
 .Education-area .edu-wrap .edu-item {
   padding: 30px 20px;
@@ -1078,7 +1079,7 @@ body.dark .service-area .service-wrapper .service-item .service-inner .service-i
 }
 
 .skill-part {
-  background: linear-gradient(to right, rgba(244, 244, 244, 0.7411764706), rgba(222, 228, 247, 0.831372549), rgba(225, 240, 255, 0.7882352941), rgba(248, 252, 255, 0.8823529412), rgba(214, 229, 247, 0.8509803922), rgba(244, 244, 244, 0.7411764706));
+  background: linear-gradient(to right, rgba(215, 227, 248, 0.8823529412), rgba(238, 246, 255, 0.9254901961), rgba(214, 245, 255, 0.7411764706), rgba(222, 235, 255, 0.8), rgba(227, 236, 247, 0.9647058824), rgba(222, 240, 255, 0.8901960784));
 }
 .skill-part .skill-wrap {
   margin-top: 70px;
@@ -1174,6 +1175,112 @@ body.dark .service-area .service-wrapper .service-item .service-inner .service-i
   z-index: 999;
 }
 
+.myWork {
+  background: linear-gradient(to right, rgba(244, 244, 244, 0.7411764706), rgba(222, 228, 247, 0.831372549), rgba(225, 240, 255, 0.7882352941), rgba(248, 252, 255, 0.8823529412), rgba(214, 229, 247, 0.8509803922), rgba(244, 244, 244, 0.7411764706));
+}
+.myWork .nav-tabs {
+  border-bottom: none;
+}
+.myWork .nav-tabs button {
+  color: #5E5E5E;
+  font-size: 18px;
+  border: none;
+  margin-right: 6px;
+}
+.myWork .nav-tabs button::after {
+  width: 90%;
+  height: 2px;
+  background-color: #5E5E5E;
+  left: 0;
+  top: 20px;
+  transform: scale(0);
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+.myWork .nav-tabs button.active, .myWork .nav-tabs button:hover {
+  background-color: transparent;
+  color: #9D9D9D;
+}
+.myWork .nav-tabs button.active::after, .myWork .nav-tabs button:hover::after {
+  transform: scale(1);
+}
+.myWork .nav-tabs button svg {
+  margin-right: 4px;
+}
+.myWork #watch-tab-pane .watch {
+  padding: 20px 35px;
+  border-radius: 6px;
+  transition: all 0.5s linear;
+}
+.myWork #watch-tab-pane .watch h3 {
+  color: #000;
+}
+.myWork #watch-tab-pane .watch #time {
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+  font-weight: bold;
+  font-size: 48px;
+  letter-spacing: 8px;
+  color: #399ef1;
+  text-align: center;
+}
+.myWork #calculator-tab-pane .calculator {
+  width: 350px;
+  margin: 30px auto 0;
+  border-radius: 10px;
+  padding: 30px 25px;
+  background: url(../../assets/images/calculator.jpg), rgba(51, 51, 51, 0.7411764706);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+.myWork #calculator-tab-pane .calculator .display {
+  margin-bottom: 30px;
+}
+.myWork #calculator-tab-pane .calculator .display input {
+  width: 100%;
+  font-size: 22px;
+  color: #fff;
+  padding: 15px 15px 0;
+  background-color: rgba(36, 36, 36, 0.5803921569);
+}
+.myWork #calculator-tab-pane .calculator .display #dis2 {
+  text-align: end;
+  padding: 0 15px 15px;
+}
+.myWork #calculator-tab-pane .calculator button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  font-size: 18px;
+  font-weight: 600;
+  border: 2px solid transparent;
+}
+.myWork #calculator-tab-pane .calculator button:hover, .myWork #calculator-tab-pane .calculator button:focus {
+  background-color: #10374e;
+  color: #fff;
+}
+.myWork #calculator-tab-pane .calculator .bgRed {
+  background-color: rgba(232, 79, 79, 0.8470588235);
+  color: #fff;
+}
+.myWork #calculator-tab-pane .calculator .big-btn {
+  width: 100%;
+  border-radius: 40px;
+}
+.myWork #calculator-tab-pane .calculator .equal {
+  background-color: rgba(67, 170, 234, 0.8705882353);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.myWork #calculator-tab-pane .calculator .equal span {
+  font-size: 50px;
+  color: #fff;
+  margin-top: -10px;
+}
+
 .Team-area {
   background: linear-gradient(to right, rgba(215, 227, 248, 0.8823529412), rgba(238, 246, 255, 0.9254901961), rgba(214, 245, 255, 0.7411764706), rgba(222, 235, 255, 0.8), rgba(227, 236, 247, 0.9647058824), rgba(222, 240, 255, 0.8901960784));
 }
@@ -1241,10 +1348,10 @@ body.dark .service-area .service-wrapper .service-item .service-inner .service-i
 }
 
 body.dark .About {
-  background: linear-gradient(to right, rgba(70, 70, 70, 0.8823529412), rgba(66, 69, 73, 0.9254901961), rgba(56, 72, 78, 0.8784313725), rgba(73, 81, 90, 0.8352941176), rgba(66, 73, 80, 0.9647058824), rgba(46, 61, 75, 0.8901960784));
+  background: linear-gradient(to right, rgba(51, 60, 65, 0.8078431373), rgba(57, 68, 75, 0.9254901961), rgba(65, 76, 80, 0.8784313725), rgba(63, 68, 73, 0.8352941176), rgba(51, 58, 65, 0.9098039216), rgba(47, 59, 70, 0.8235294118));
 }
 body.dark .Education-area {
-  background: linear-gradient(to right, rgba(51, 60, 65, 0.8078431373), rgba(57, 68, 75, 0.9254901961), rgba(65, 76, 80, 0.8784313725), rgba(63, 68, 73, 0.8352941176), rgba(51, 58, 65, 0.9098039216), rgba(47, 59, 70, 0.8235294118));
+  background: linear-gradient(to right, rgba(70, 70, 70, 0.8823529412), rgba(66, 69, 73, 0.9254901961), rgba(56, 72, 78, 0.8784313725), rgba(73, 81, 90, 0.8352941176), rgba(66, 73, 80, 0.9647058824), rgba(46, 61, 75, 0.8901960784));
 }
 body.dark .Education-area .edu-wrap .edu-item {
   background-color: rgba(64, 86, 98, 0.7294117647);
@@ -1254,13 +1361,22 @@ body.dark .Education-area .edu-wrap .edu-item .edu-inner .edu-thumb {
   color: rgba(199, 199, 199, 0.9098039216);
 }
 body.dark .skill-part {
-  background: linear-gradient(to right, rgba(70, 70, 70, 0.8823529412), rgba(66, 69, 73, 0.9254901961), rgba(56, 72, 78, 0.8784313725), rgba(73, 81, 90, 0.8352941176), rgba(66, 73, 80, 0.9647058824), rgba(46, 61, 75, 0.8901960784));
+  background: linear-gradient(to right, rgba(51, 60, 65, 0.8078431373), rgba(57, 68, 75, 0.9254901961), rgba(65, 76, 80, 0.8784313725), rgba(63, 68, 73, 0.8352941176), rgba(51, 58, 65, 0.9098039216), rgba(47, 59, 70, 0.8235294118));
 }
 body.dark .skill-part .skill-wrap .my-skill p {
   color: rgba(190, 190, 190, 0.8901960784);
 }
 body.dark .skill-part .skill-wrap .my-skill .barfiller .tipWrap .tip {
   color: rgba(190, 190, 190, 0.8901960784);
+}
+body.dark .myWork {
+  background: linear-gradient(to right, rgba(70, 70, 70, 0.8823529412), rgba(66, 69, 73, 0.9254901961), rgba(56, 72, 78, 0.8784313725), rgba(73, 81, 90, 0.8352941176), rgba(66, 73, 80, 0.9647058824), rgba(46, 61, 75, 0.8901960784));
+}
+body.dark .myWork .nav-tabs button {
+  color: rgba(190, 190, 190, 0.8901960784);
+}
+body.dark .myWork .nav-tabs button::after {
+  background-color: rgba(236, 236, 236, 0.9921568627);
 }
 body.dark .Team-area {
   background: linear-gradient(to right, rgba(51, 60, 65, 0.8078431373), rgba(57, 68, 75, 0.9254901961), rgba(65, 76, 80, 0.8784313725), rgba(63, 68, 73, 0.8352941176), rgba(51, 58, 65, 0.9098039216), rgba(47, 59, 70, 0.8235294118));
@@ -1465,7 +1581,6 @@ body.dark .portfolio-part .gellary-wrap .gellary-head .button-group button:hover
 
 .Blog-area {
   background: linear-gradient(to right, rgba(244, 244, 244, 0.7411764706), rgba(222, 228, 247, 0.831372549), rgba(225, 240, 255, 0.7882352941), rgba(248, 252, 255, 0.8823529412), rgba(214, 229, 247, 0.8509803922), rgba(244, 244, 244, 0.7411764706));
-  position: relative;
 }
 .Blog-area .blog-wrapper .blog-item {
   background: #fff;
@@ -1477,7 +1592,7 @@ body.dark .portfolio-part .gellary-wrap .gellary-head .button-group button:hover
 .Blog-area .blog-wrapper .blog-item .blog-inner {
   padding: 20px;
 }
-.Blog-area .blog-wrapper .blog-item .blog-inner a {
+.Blog-area .blog-wrapper .blog-item .blog-inner .blog-img {
   cursor: pointer;
   width: 100%;
 }
@@ -1497,6 +1612,7 @@ body.dark .portfolio-part .gellary-wrap .gellary-head .button-group button:hover
   font-size: 24px;
   color: #5E5E5E;
   font-weight: 700;
+  cursor: pointer;
 }
 .Blog-area .blog-details {
   width: 100%;
@@ -1529,7 +1645,7 @@ body.dark .portfolio-part .gellary-wrap .gellary-head .button-group button:hover
   border-radius: 6px;
   background-color: #6ca8f7;
   cursor: pointer;
-  color: #ffffff;
+  color: #fff;
   border: 1px solid transparent;
   -webkit-transition: all 0.3s linear;
   -moz-transition: all 0.3s linear;
@@ -1583,10 +1699,10 @@ body.dark .portfolio-part .gellary-wrap .gellary-head .button-group button:hover
 .Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon:hover {
   background-color: #d70027;
 }
-.Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon:hover i, .Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon:hover svg {
+.Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon:hover svg {
   color: #fff;
 }
-.Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon i, .Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon svg {
+.Blog-area .blog-details .blog-content .blog-bottom .blog-video .blog-video-icon svg {
   color: #d70027;
 }
 
@@ -1594,7 +1710,7 @@ body.dark .Blog-area {
   background: linear-gradient(to right, rgba(70, 70, 70, 0.8823529412), rgba(66, 69, 73, 0.9254901961), rgba(56, 72, 78, 0.8784313725), rgba(73, 81, 90, 0.8352941176), rgba(66, 73, 80, 0.9647058824), rgba(46, 61, 75, 0.8901960784));
 }
 body.dark .Blog-area .blog-wrapper .blog-item {
-  background-color: rgba(64, 86, 98, 0.7294117647);
+  background: rgba(64, 86, 98, 0.7294117647);
 }
 body.dark .Blog-area .blog-wrapper .blog-item .blog-inner .blog-heading a {
   color: rgba(236, 236, 236, 0.9921568627);
@@ -1605,7 +1721,7 @@ body.dark .Blog-area .blog-details {
 body.dark .Blog-area .blog-details .blog-content {
   background: rgba(64, 86, 98, 0.7294117647);
 }
-body.dark .Blog-area .blog-details .blog-content .blog-bottom a {
+body.dark .Blog-area .blog-details .blog-bottom a {
   color: rgba(236, 236, 236, 0.9921568627);
 }
 
