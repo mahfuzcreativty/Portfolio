@@ -504,6 +504,99 @@
     </section>
     <!--======= Skill Area End =======-->
 
+    <!-- My Work Start -->
+    <section class="myWork">
+        <div class="container">
+            <div class="section-header">
+                <h2>My Work</h2>
+            </div>
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="watch-tab" data-bs-toggle="tab" data-bs-target="#watch-tab-pane" type="button" role="tab" aria-controls="watch-tab-pane" aria-selected="true"><i class="fa-regular fa-clock"></i> Watch</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="calculator-tab" data-bs-toggle="tab" data-bs-target="#calculator-tab-pane" type="button" role="tab" aria-controls="calculator-tab-pane" aria-selected="false"><i class="fa-solid fa-calculator"></i> Calculator</button>
+                </li>
+                </ul>
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="watch-tab-pane" role="tabpanel" aria-labelledby="watch-tab" tabindex="0">
+                        <div class="watch">
+                            <h3 class="mb-4">Digital Clock</h3>
+                            <div id="time"></div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="calculator-tab-pane" role="tabpanel" aria-labelledby="calculator-tab" tabindex="0">
+                        <div class="calculator">
+                            <div class="display">
+                                <input type="text" id="dis1" readonly>
+                                <input type="text" id="dis2" readonly>
+                            </div>
+
+                            <div class="row g-3">
+                                <div class="col-6">
+                                    <button onclick="clearAll()" class="bgRed big-btn">AC</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="del()" class="bgRed">DEL</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum('/')">/</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(7)">7</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(8)">8</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(9)">9</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum('-')"> - </button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(4)">4</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(5)">5</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(6)">6</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum('*')"> * </button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(1)">1</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(2)">2</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(3)">3</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum('+')"> + </button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum(0)">0</button>
+                                </div>
+                                <div class="col-3">
+                                    <button onclick="getNum('.')"> . </button>
+                                </div>
+                                <div class="col-6">
+                                    <button onclick="calculateAll()" class="equal big-btn">
+                                        <span> = </span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </section>
+    <!-- My Work End -->
 
     <!--===== My Team Area Start====== -->
     <section class="Team-area" data-serialscrolling-target="team-section">
@@ -944,7 +1037,7 @@
                                 76
                             </li>
                         </ul>
-                        <a>a perfect webpage or website design.</a>
+                        <a>A perfect webpage or website design.</a>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae eos fugit eveniet blanditiis quia eum magni voluptatum rerum aliquid, minima iure maxime deserunt iste illum doloremque molestias quos, alias exercitationem nihil, nulla facere asperiores.</p>
                         <div class="blog-video">
                             <img src="./assets/images/blog/video.jpg" alt="Blog Image">
@@ -1071,5 +1164,6 @@
     <script src="assets/js/wow.min.js"></script>
     <!-- main js link -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/others.js"></script>
 </body>
 </html>
